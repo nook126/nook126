@@ -1,12 +1,12 @@
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there! 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me:</h3>
 
 ###
 
-<p align="left">I'm a student at 42 Wolsfburg<br><br>- 📚 I'm currently learning c<br>- ⚡ In my free time I like to tinker and learn new skills.</p>
+<p align="left">I'm a student at 42 Wolfsburg<br><br>- 📚 I'm currently learning c<br>- ⚡ In my free time I like to tinker and learn new skills.</p>
 
 ###
 
