@@ -45,7 +45,7 @@
   
   <img width="12" />
 
-  <a href="https://www.arduino.cc/" style="text-decoration:none;">
+  <a href="https://www.arduino.cc/maker" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" /></a>
 </div>
 
