@@ -15,7 +15,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.c-language.org/" target="_blank">
+  <a href="https://www.c-language.org/" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   </a>
   <img width="12" />
@@ -23,8 +23,8 @@
   <a href="https://www.linux.org/pages/download/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linux" height="40" alt="c logo" />
   </a>
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
+  
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
