@@ -15,31 +15,42 @@
 ###
 
 <div align="left">
-  <a href="https://www.c-language.org/" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  </a>
+  <a href="https://www.c-language.org/" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" /></a>
+
+  <img width="12" />
+ 
+  <a href="https://www.linux.org/pages/download/" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" /></a>
+  
   <img width="12" />
   
-  <a href="https://www.linux.org/pages/download/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="40" alt="c logo" />&nbsp;&nbsp;</a>
+  <a href="https://www.gnu.org/software/bash/" style="text-decoration:none;">
+    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo" /></a>
   
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+
+  <a href="https://www.docker.com/" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" /></a>
+  
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  
+  <a href="https://www.python.org/" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /></a>
+  
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+
+  <a href="https://www.arduino.cc/" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" /></a>
 </div>
 
 ###
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=039BE5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="signal logo"  />
+<div align="left">
+  <a href="https://www.linkedin.com/in/denis-prudnikov-5a29a02a8/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
 </div>
 
 ###
