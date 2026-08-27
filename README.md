@@ -20,7 +20,7 @@
   </a>
   <img width="12" />
   
-  <a href="https://www.linux.org/pages/download/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="40" alt="c logo" /></a>&nbsp;&nbsp;
+  <a href="https://www.linux.org/pages/download/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="40" alt="c logo" />&nbsp;&nbsp;</a>
   
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
   <img width="12" />
