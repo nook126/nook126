@@ -6,7 +6,12 @@
 
 ###
 
-<p align="left">I'm a student at 42 Wolfsburg<br>In my free time I like to tinker and learn new skills.</p>
+<p align="left">
+  I'm a student at 42 Wolfsburg.<br>
+  In my free time, I like to tinker with electronics and learn new skills.<br>
+  I love technology and understanding how things work.
+  
+</p>
 
 ###
 
