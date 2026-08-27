@@ -15,7 +15,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.c-language.org/" style="text-decoration:none;">
+  <a href="https://www.c-language.org/" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   </a>
   <img width="12" />
