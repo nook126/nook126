@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a student at 42 Wolfsburg<br><br>- 📚 I'm currently learning c<br>- ⚡ In my free time I like to tinker and learn new skills.</p>
+<p align="left">I'm a student at 42 Wolfsburg<br><br><br>- ⚡ In my free time I like to tinker and learn new skills.</p>
 
 ###
 
